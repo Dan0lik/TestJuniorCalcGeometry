@@ -1,0 +1,6 @@
+C:\C#Project\ATEN\TestJunior\TestJunior\bin\Debug\TestJunior.dll
+C:\C#Project\ATEN\TestJunior\TestJunior\bin\Debug\TestJunior.pdb
+C:\C#Project\ATEN\TestJunior\TestJunior\obj\Debug\TestJunior.csproj.AssemblyReference.cache
+C:\C#Project\ATEN\TestJunior\TestJunior\obj\Debug\TestJunior.csproj.CoreCompileInputs.cache
+C:\C#Project\ATEN\TestJunior\TestJunior\obj\Debug\TestJunior.dll
+C:\C#Project\ATEN\TestJunior\TestJunior\obj\Debug\TestJunior.pdb
