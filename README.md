@@ -1,0 +1,2 @@
+# TestJuniorCalcGeometry
+Технический тест.
